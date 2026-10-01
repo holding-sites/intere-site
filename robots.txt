@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://intere.hk/sitemap.xml
